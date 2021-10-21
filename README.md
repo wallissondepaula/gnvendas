@@ -1,6 +1,6 @@
 # GNvendas
 
-## Instruções para Execução do site
+## Instruções para execução do site
 
 ## Instalação do software Xampp 5.6.33
 
