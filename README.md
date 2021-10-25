@@ -50,12 +50,14 @@ Ainda na aba SQL digite a seguinte linha de comando (sem as aspas):
 
 Clique em Executar.
 
-PRONTO! A base de dodos necessária está pronta
+PRONTO! A base de dados necessária está pronta
 
 ## Diretório do site
 
 1 - Através do Windows Explorer acesse a pasta de htdocs pelo caminho "C:\xampp\htdocs".
+
 2 - crie uma nova pasta de nome 'gnvendas', sem aspas.
+
 3 - Descarregue na pasta 'gn vendas' todos os arquivos disponibilizados aqui no github.
 
 ## Acessando o site
