@@ -61,6 +61,3 @@ PRONTO! A base de dodos necessária está pronta
 ## Acessando o site
 
 No seu navegador copie e cole o link http://localhost/gnvendas/index.php ou clique [aqui](http://localhost/gnvendas/index.php) para acessar o site do GN Vendas. 
-
-
-## Acessando o site
