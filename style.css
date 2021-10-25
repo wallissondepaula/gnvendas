@@ -1,0 +1,16 @@
+body{
+	background-color: rgb(127,127,127);
+	overflow: hidden;
+	margin: 0;
+}
+
+h1{
+	font-size: 50px;
+	color: orange;
+}
+
+div.panel{
+	background-color: gray;
+	padding: 15px 15px;
+	box-shadow: 10px 10px;
+}
