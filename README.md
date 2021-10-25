@@ -46,7 +46,13 @@ Clique em Executar.
 
 Ainda na aba SQL digite a seguinte linha de comando (sem as aspas):
 
-"CREATE TABLE `database`.`vendas` ( `id` INT NOT NULL AUTO_INCREMENT , `produto` VARCHAR(100) NOT NULL , `valor` REAL NOT NULL , `comprador` TEXT NOT NULL , `cpf` INT(11) NOT NULL , `telefone` INT(11) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;"
+"CREATE TABLE database.vendas ( id INT NOT NULL AUTO_INCREMENT , produto VARCHAR(100) NOT NULL , valor VARCHAR(100) NOT NULL , comprador TEXT NOT NULL , cpf VARCHAR(100) NOT NULL , telefone VARCHAR(100) NOT NULL , PRIMARY KEY (id)) ENGINE = InnoDB"
+
+Clique em Executar.
+
+### 4 - Tabela boleto
+
+"CREATE TABLE database.boleto ( id INT NOT NULL AUTO_INCREMENT , produto VARCHAR(100) NOT NULL , valor VARCHAR(100) NOT NULL , comprador TEXT NOT NULL , cpf VARCHAR(100) NOT NULL , telefone VARCHAR(100) NOT NULL , PRIMARY KEY (id)) ENGINE = InnoDB"
 
 Clique em Executar.
 
@@ -59,6 +65,12 @@ PRONTO! A base de dados necessária está pronta
 2 - crie uma nova pasta de nome 'gnvendas', sem aspas.
 
 3 - Descarregue na pasta 'gn vendas' todos os arquivos disponibilizados aqui no github.
+
+## SDKs Gerencianet
+
+A instalação das SDKs é feita normalmente. O endereço do php.exe, utilizando o XAMPP é o especificado abaixo.
+
+C:\xampp\php
 
 ## Acessando o site
 
